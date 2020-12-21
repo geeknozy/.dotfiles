@@ -3,6 +3,6 @@ my .config files for BSPWM URXVT(unicode) or Terminator and polybar with ROFI me
 
 <p align="center">
   <img width=1000
-       src=.\.dotfiles/Screenshots/Screenshot_1.jpg
+       src=/Screenshots/Screenshot_1.png
        >
 </p>
