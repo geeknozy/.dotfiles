@@ -1,5 +1,5 @@
 # .dotfiles
-my .config files for BSPWM URXVT(unicode) or Terminator and polybar with ROFI menu.
+My .config files for BSPWM with Terminator or URXVT-unicode, polybar and ROFI menu.
 
 Here are the screenshots of the rice.
 
